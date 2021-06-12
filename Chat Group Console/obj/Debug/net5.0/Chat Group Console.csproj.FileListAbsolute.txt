@@ -1,0 +1,27 @@
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console.deps.json
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console.runtimeconfig.json
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console.runtimeconfig.dev.json
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/ref/Chat Group Console.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Chat Group Console.pdb
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.Azure.Amqp.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.Azure.ServiceBus.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.Azure.Services.AppAuthentication.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.csproj.AssemblyReference.cache
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.AssemblyInfoInputs.cache
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.AssemblyInfo.cs
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.csproj.CoreCompileInputs.cache
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.csproj.CopyComplete
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/ref/Chat Group Console.dll
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.pdb
+/home/hammadia/Admin/Projects/Demos/service_bus/azure_chatGroup/ChatGroup/Chat Group Console/obj/Debug/net5.0/Chat Group Console.genruntimeconfig.cache
